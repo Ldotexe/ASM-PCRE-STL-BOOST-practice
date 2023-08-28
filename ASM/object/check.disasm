@@ -1,0 +1,2 @@
+fldpi
+fmul
